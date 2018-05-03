@@ -6,6 +6,8 @@ This was tested on Windows 10 with all latest updates applied.
 
 Before you start make sure virtualbox is not running otherwise the VM configuration doesn't work. 
 
+Also the script should probably be run as administrator (Haven't tested this yet). 
+
 Be sure to read the installation instructions in the Wiki
 https://github.com/BribinBroncs/OSX_VirtualBox_PowerShell/wiki/Installation
 
